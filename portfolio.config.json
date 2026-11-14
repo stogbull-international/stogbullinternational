@@ -1,0 +1,34 @@
+{
+  "name": "KIRTI PAL SAHU",
+  "title": "Owner",
+  "tagline": "Founder of stogbull international",
+  "photo": "/placeholder-avatar.svg",
+  "about": [
+    "Owner of stogbull"
+  ],
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "certifications": [],
+  "contact": {
+    "email": "stogbullint@gmail.com",
+    "phone": "",
+    "location": ""
+  },
+  "social": {
+    "linkedin": "",
+    "github": "",
+    "twitter": ""
+  },
+  "mentoring": {
+    "enabled": false,
+    "headline": "Mentor with KIRTI PAL SAHU",
+    "description": "",
+    "topmateUrl": ""
+  },
+  "blog": {
+    "enabled": false,
+    "posts": []
+  }
+}
